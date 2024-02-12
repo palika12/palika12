@@ -10,6 +10,8 @@
 
 ☕️ Coffee keeps me fueled and focused.
 
+🔎 Open for job opportunities.
+
 🎉 Fun Fact: The term "bug" in programming originated from an actual insect! In 1947, Grace Hopper discovered a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. 
 She famously taped the moth into her logbook, coining the term "debugging" for fixing errors in code.
 
